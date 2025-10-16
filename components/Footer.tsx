@@ -48,6 +48,9 @@ const Footer: React.FC<FooterProps> = ({ onAdminLogin, onRequestAddition }) => {
                         <p className="text-sm">
                             We aim for the highest level of accuracy. If you find an error or wish to suggest an addition, please use the 'Request an Addition/Edit' tool. Thank you for your understanding.
                         </p>
+                        <p className="text-sm">
+                            This information is for educational use only, drawn from public sources. Credit is given to the original content creator(s). To request content removal or receive the source list for a specific item, please contact us.
+                        </p>
                     </div>
                 </div>
 
